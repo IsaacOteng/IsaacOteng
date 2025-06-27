@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm EIsaac Oteng A.</h1>
+<h1 align="center">👋 Hi there, I'm Isaac Oteng A.</h1>
 
 <p align="center">
 🚀 Passionate <strong> FrontEnd Web Developer || ALX Software Engineering learner</strong> || Full-stack Software Engineer || Future DevOps Engineer
