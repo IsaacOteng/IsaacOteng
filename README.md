@@ -1,31 +1,80 @@
-# Hi there, I'm [Your Name]! 👋
+<h1 align="center">👋 Hi there, I'm EIsaac Oteng A.</h1>
 
-![Banner Image](your_banner_image_url_here)
+<p align="center">
+🚀 Passionate <strong> FrontEnd Web Developer || ALX Software Engineering learner</strong> || Full-stack Software Engineer || Future DevOps Engineer
+</p>
 
-## About Me 🚀
+<p align="center">
+  <a href="https://github.com/IsaacOteng"><img src="https://komarev.com/ghpvc/?username=acquah-ea&style=flat-square&color=blue" alt="Profile Views"/></a>
+  <a href="https://github.com/IsaacOteng?tab=followers"><img src="https://img.shields.io/github/followers/acquah-ea?label=Followers&style=flat-square" alt="GitHub Followers"/></a>
+</p>
 
-I'm a passionate **Software Engineer** with experience in **React Js**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+---
 
-- 🌱 Currently learning: **BackEnd Development**
-- 🔭 Working on: **A chat application**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+<h2>🌱 About Me</h2>
 
-## My Skills 🧠
+<ul>
+  <li>💻 ALX Software Engineering student focused on mastering Full Stack Development and System Engineering.</li>
+  <li>🌱 Currently learning: C programming, Python scripting, Web Development and DevOps tools.</li>
+  <li>🎯 Passion: Solving real-world problems with code and building scalable web and cloud-based solutions.</li>
+</ul>
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+---
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+<h2>📜 Certifications</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/ALX-Software_Engineering-blue" />
+  <img src="https://img.shields.io/badge/C-Programming-yellow" />
+  <img src="https://img.shields.io/badge/Python-Scripting-green" />
+  <img src="https://img.shields.io/badge/Web-Development-lightgrey" />
+  <img src="https://img.shields.io/badge/Git%20and%20GitHub-Version%20Control-critical" />
+</p>
+
+---
+
+<h2>🚀 Tech Stack</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-JS-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-Utility-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Code_Hosting-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3.8-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-Scripting-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Database-4479A1?logo=mysql&logoColor=white" />
+</p>
 
 
-## Get in Touch 📬
+---
 
-- **[LinkedIn]**(www.linkedin.com/in/isaac-oteng-1b046b287)
-- **[Twitter]**[(your_twitter_profile_link](https://twitter.com/
-izaacjnr))
+<h2>📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsaacOteng&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=IsaacOteng&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacOteng&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
 
 
+<h2>📫 Contact Me</h2>
+
+<ul>
+  <li>📧 Email: izaacoteng@gmail.com</li>
+  <li>🔗 <a href="https://linkedin.com/in/isaac-oteng">LinkedIn</a></li>
+</ul>
+
+---
+
+<h2>📝 Personal Motto</h2>
+
+<blockquote>
+"Code with Purpose"
+</blockquote>
