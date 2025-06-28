@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/IsaacOteng"><img src="https://komarev.com/ghpvc/?username=acquah-ea&style=flat-square&color=blue" alt="Profile Views"/></a>
+  <a href="https://www.google.com/search?q=DIsaac+Oteng">「 Google Me 」</a>
+  <br>
+  <a href="https://github.com/Isaac+Oteng+Ahiavokpor"><img src="https://komarev.com/ghpvc/?username=acquah-ea&style=flat-square&color=blue" alt="Profile Views"/></a>
   <a href="https://github.com/IsaacOteng?tab=followers"><img src="https://img.shields.io/github/followers/acquah-ea?label=Followers&style=flat-square" alt="GitHub Followers"/></a>
 </p>
 
