@@ -78,7 +78,7 @@
   <img src="https://img.shields.io/badge/SQL-Database-4479A1?logo=mysql&logoColor=white" />
 </p>
 
-
+ <!--
 ---
 
 <h2>📈 GitHub Stats</h2>
@@ -92,7 +92,7 @@
 </p>
 
 ---
-
+-->
 
 <h2>📫 Contact Me</h2>
 
