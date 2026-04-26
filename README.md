@@ -14,7 +14,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Isaac+Oteng+izaacjnr">「 Google Me 」</a>
     <br>
-    「 Full Stack Engineer from <b>Ghana</b> 」
+    「 Full Stack Engineer 」
     <br>
     <br>
   </samp>
