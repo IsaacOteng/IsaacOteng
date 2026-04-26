@@ -39,7 +39,7 @@
 <h2>🌱 About Me</h2>
 
 <ul>
-  <li>💻 Full Stack Engineer studying at <b>GCTU</b>   building real products, not just tutorials.</li>
+  <li>💻 Full Stack Engineer building real products, not just tutorials.</li>
   <li>🚀 Currently shipping <b>TertiTask</b>   a Fiverr-style freelance marketplace for university students, built with Django + React + Paystack.</li>
   <li>🔧 I work across the full stack: REST APIs, auth flows, payment integrations, real-time WebSockets, cloud storage, and production deployments.</li>
   <li>🎯 Passion: Building scalable, well-architected software that solves real problems for real people.</li>
