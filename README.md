@@ -107,16 +107,16 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>TertiTask</h3>
-      <p>A Fiverr-style freelance marketplace built for university students. Full order lifecycle   browse gigs, pay via Paystack, deliver work, approve/dispute, get paid out to mobile money or bank.</p>
+      <h3>Snapseek</h3>
+      <p>A smart photo retrieval platform for event photography guests find and download their own photos from large event galleries using face recognition, while every photo stays in the photographer's own cloud storage(google drive, dropbox, ...)</p>
       <p>
         <img src="https://img.shields.io/badge/Django_5-092E20?style=flat-square&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Paystack-00C3F7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Insightface-00C3F7?style=flat-square" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
       </p>
-      <p><b>Features:</b> Firebase Auth · Paystack webhooks · R2 media uploads · Real-time notifications (WebSockets) · Append-only ledger · Cron-based auto-approve · Dispute resolution</p>
+      <p><b>Features:</b> · Insightface (SCRFD) · R2 media uploads · Real-time Photo-Matching · Cloud Storage · Google Drive · Dropbox </p>
     </td>
   </tr>
 </table>
@@ -125,13 +125,19 @@
 
 <h2>📈 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaacOteng&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=IsaacOteng&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacOteng&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+# 📊 GitHub Stats:
+
+<p align="center">![](https://streak-stats.demolab.com/?user=IsaacOteng&theme=codeSTACKr&hide_border=false)<br/></p>
+
+##
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=IsaacOteng&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=IsaacOteng&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
