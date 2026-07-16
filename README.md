@@ -36,19 +36,19 @@
 
 ---
 
-<h2>🌱 About Me</h2>
+<h2>About Me</h2>
 
 <ul>
-  <li>💻 Full Stack Engineer building real products, not just tutorials.</li>
-  <li>🚀 Currently shipping <b>TertiTask</b>   a Fiverr-style freelance marketplace for university students, built with Django + React + Paystack.</li>
-  <li>🔧 I work across the full stack: REST APIs, auth flows, payment integrations, real-time WebSockets, cloud storage, and production deployments.</li>
-  <li>🎯 Passion: Building scalable, well-architected software that solves real problems for real people.</li>
-  <li>🌍 Based in Ghana   building for Africa and beyond.</li>
+  <li> Full Stack Engineer building real products, not just tutorials.</li>
+  <li> Currently shipping <b>TertiTask</b>   a Fiverr-style freelance marketplace for university students, built with Django + React + Paystack.</li>
+  <li> I work across the full stack: REST APIs, auth flows, payment integrations, real-time WebSockets, cloud storage, and production deployments.</li>
+  <li> Passion: Building scalable, well-architected software that solves real problems for real people.</li>
+  <li> Based in Ghana   building for Africa and beyond.</li>
 </ul>
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+<h2> Tech Stack</h2>
 
 **Frontend**
 
@@ -102,7 +102,7 @@
 
 ---
 
-<h2>🏗️ Featured Project</h2>
+<h2> Featured Project</h2>
 
 <table>
   <tr>
@@ -123,27 +123,19 @@
 
 ---
 
-<h2>📈 GitHub Stats</h2>
-
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 ![](https://streak-stats.demolab.com/?user=IsaacOteng&theme=codeSTACKr&hide_border=false)<br/>
 
----
-<p align="center">
-[![](https://komarev.com/ghpvc/?username=IsaacOteng&icon=0&color=0)](https://visitcount.itsvg.in)
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
-<h2>📫 Contact Me</h2>
+<h2> Contact Me</h2>
 
 <ul>
-  <li>📧 Email: izaacoteng@gmail.com</li>
-  <li>🔗 <a href="https://linkedin.com/in/isaac-oteng-1b046b287">LinkedIn</a></li>
-  <li>🐦 <a href="https://twitter.com/izaacjnr">Twitter / X</a></li>
+  <li>Email: izaacoteng@gmail.com</li>
+  <li><a href="https://linkedin.com/in/isaac-oteng-1b046b287">LinkedIn</a></li>
+  <li><a href="https://twitter.com/izaacjnr">Twitter / X</a></li>
 </ul>
 
 ---
