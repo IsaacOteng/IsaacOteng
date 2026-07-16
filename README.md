@@ -129,11 +129,6 @@
 
 ![](https://streak-stats.demolab.com/?user=IsaacOteng&theme=codeSTACKr&hide_border=false)<br/>
 
-##
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=IsaacOteng&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 <p align="center">
 [![](https://komarev.com/ghpvc/?username=IsaacOteng&icon=0&color=0)](https://visitcount.itsvg.in)
