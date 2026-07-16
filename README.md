@@ -111,7 +111,7 @@
       <p>A smart photo retrieval platform for event photography guests find and download their own photos from large event galleries using face recognition, while every photo stays in the photographer's own cloud storage(google drive, dropbox, ...)</p>
       <p>
         <img src="https://img.shields.io/badge/Django_5-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Insightface-00C3F7?style=flat-square" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
@@ -127,7 +127,7 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">![](https://streak-stats.demolab.com/?user=IsaacOteng&theme=codeSTACKr&hide_border=false)<br/></p>
+![](https://streak-stats.demolab.com/?user=IsaacOteng&theme=codeSTACKr&hide_border=false)<br/>
 
 ##
 
@@ -135,7 +135,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=IsaacOteng&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+<p align="center">
 [![](https://komarev.com/ghpvc/?username=IsaacOteng&icon=0&color=0)](https://visitcount.itsvg.in)
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
